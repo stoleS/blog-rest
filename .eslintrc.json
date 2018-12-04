@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "google",
+    "plugin:node/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "rules": {
+    "linebreak-style": ["error", "windows"]
+  }
+}
